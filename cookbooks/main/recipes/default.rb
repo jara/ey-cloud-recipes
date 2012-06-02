@@ -1,6 +1,6 @@
 require_recipe "timezone"
 require_recipe "delayed_job"
-
+require_recipe "sphinx"
 
 #execute "testing" do
 #  command %Q{
