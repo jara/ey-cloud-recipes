@@ -1,6 +1,5 @@
 # Add your required timezone name here:
-timezone = "UTC"
-
+timezone = "Africa/Lagos"
 
 service "vixie-cron"
 service "sysklogd"
