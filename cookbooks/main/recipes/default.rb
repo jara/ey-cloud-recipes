@@ -1,4 +1,5 @@
 require_recipe "timezone"
+require_recipe "delayed_job"
 
 
 #execute "testing" do
